@@ -1,0 +1,58 @@
+.filters {
+  background-color: white;
+  height: 100%;
+  width: 100%;
+  border: 1px solid #dddddd;
+  border-radius: 4px;
+  margin: auto;
+  display: flex;
+}
+
+button {
+  font-size: 18px;
+  background-color: #ff5a5f;
+  color: #ffffff;
+  height: 48px;
+  width: 20%;
+  border: none;
+  border-radius: 4px;
+  margin: auto;
+  margin-right: 30px;
+  margin-top: auto;
+  margin-bottom: auto;
+  opacity: 1;
+  transition: opacity 0.3s;
+}
+
+.search-button:hover {
+  opacity: 0.9;
+}
+
+.locations {
+  border-right: #dddddd;
+  width: 25%;
+
+  text-align: center;
+  border-right-style: solid;
+  height: auto;
+}
+
+.amenities {
+  width: 25%;
+  text-align: center;
+  margin-left: 0;
+  border-left: #dddddd;
+  height: auto;
+}
+
+h3 {
+  font-weight: 600;
+  margin-bottom: 0;
+}
+
+h4 {
+  font-weight: 400;
+  font-size: 14px;
+  margin: auto;
+  margin-bottom: 10px;
+}

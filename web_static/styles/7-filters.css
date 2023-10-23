@@ -1,0 +1,49 @@
+.places{
+    font-size: 30px;
+    display:inline-block;
+    margin:auto;
+    width: 100%;
+    height: auto;
+}
+
+.place{
+
+   margin-left: 0px;
+margin-right:850px;
+}
+
+.house{
+
+    display: flex;
+    width: 900px;
+    margin: auto;
+    margin-top: 0; 
+}
+
+.places h1{
+
+    text-align: center;
+}
+
+article{
+width: 390px;
+padding: 20px;
+margin:20px;
+border:#FF5A5F 1px ;
+border-radius : 4px;
+border-style: solid;
+height: auto;
+
+}
+
+article h2{
+
+font-size: 30px;
+text-align: center;
+
+}
+
+.suit{
+width: 390px;
+margin: auto;
+}
